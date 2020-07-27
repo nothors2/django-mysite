@@ -22,6 +22,23 @@ deactivate : 가상환경 종료
 ## 튜토리얼 따라하기
 [https://docs.djangoproject.com/ko/3.0/intro/tutorial01/](https://docs.djangoproject.com/ko/3.0/intro/tutorial01/)
 
+## git 
+[https://github.com/nothors2/django-mysite](https://github.com/nothors2/django-mysite)
+
+## db 관련 따라하기
+[https://docs.djangoproject.com/ko/3.0/intro/tutorial02/](https://docs.djangoproject.com/ko/3.0/intro/tutorial02/)
+
+
+## 모델, 디비 마이그레이션, 생성, 어드민.  
+py manage.py shell
+
+## 자주쓰는 콘솔명령
+py -m django --verion
+### 프로젝트 생성, 관리자
+django-admin startproject mysite
+py manage.py createsuperuser 
+### 프로젝트 실행
+py manage.py runserver
 
 
 ### 참조 유툽
